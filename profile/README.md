@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./dragon.png" alt="VORYNTH" width="140" />
+<img src="./Vorynth.png" alt="VORYNTH" width="140" />
 
 # VORYNTH
 

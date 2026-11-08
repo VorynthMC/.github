@@ -44,10 +44,6 @@ Un serveur **Minecraft Survie × MMORPG** où se mêlent exploration, guildes, m
 Le serveur est **gratuit**. Une boutique facultative proposera des grades et des cosmétiques.
 **Aucun pay-to-win** : les avantages premium sont purement cosmétiques.
 
-## 📱 Et Bedrock ?
-
-Une version **Bedrock** est en développement, avec pour objectif une sortie approximativement en même temps que Java (prévisionnel, selon les tests techniques).
-
 ## 🔗 Liens officiels
 
 - 💬 [Discord](https://discord.gg/VOTRE_LIEN)
